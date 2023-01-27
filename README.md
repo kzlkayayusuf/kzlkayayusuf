@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf KIZILKAYA</h1>
-<h3 align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"></h3>
+
+<a href="https://github.com/kzlkayayusuf"><img src="snake.svg"></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kzlkayayusuf&label=Profile%20views&color=0e75b6&style=flat" alt="kzlkayayusuf" /> </p>
